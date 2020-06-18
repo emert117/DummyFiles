@@ -1,9 +1,9 @@
 # DummyFiles
 Generate dummy files of any size and any type on every platform (Windows/Linux/Mac)
 
-Fill your harddrive with dummy files to make harder to recover your deleted files.
+Fill your hard drive with dummy files to make it harder to recover your deleted files.
 
-A Node.js application
+A Node.js GUI application
 
 ## Installation
 There is not a working example yet.
