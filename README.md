@@ -1,6 +1,8 @@
 # DummyFiles
 Generate dummy files of any size and any type on every platform (Windows/Linux/Mac)
 
+Fill your harddrive with dummy files to make harder to recover your deleted files.
+
 A Node.js application
 
 ## Installation
@@ -15,5 +17,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-                   GNU LESSER GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
+GNU LESSER GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
